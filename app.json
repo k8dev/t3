@@ -7,7 +7,7 @@
     "stack": "container",
 	"env": {
       "PORT" : {
-        "description": "port",
+        "description": "",
                 "value" : "",
         "required" : true
         }	
